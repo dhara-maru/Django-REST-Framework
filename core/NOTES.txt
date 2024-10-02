@@ -1,0 +1,5 @@
+//NOTES https://youtu.be/s7aINQPGNDM?si=k7E6M8DCwOSFR7mt
+
+1.install django rest framework
+2. add it in settings py
+
